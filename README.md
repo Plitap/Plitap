@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Plitap.png?size=160" width="96" height="96" alt="PLITAP" />
+  <img src="https://avatars.githubusercontent.com/u/226187029?v=4" width="96" height="96" alt="PLITAP" />
 </p>
 
 <h1 align="center">PLITAP</h1>
